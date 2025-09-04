@@ -11,7 +11,7 @@ What are the peak hours for Uber rides?
 ✅ Visualized peak hours, weekday vs weekend demand, and trends
 
 🛠️ Tech Stack
-Python 3.x
+Python 3.0
 Pandas, NumPy – Data preprocessing & analysis
 Matplotlib, Seaborn – Data visualization
 Jupyter Notebook – Development environment
